@@ -19,9 +19,9 @@ Users should be able to:
 
 #### - Add a task to the list by inputing the task in the text area
 
-#### - Delete or remove a task by clickin on it -- strikes through a task if removed
+#### - To complete a task, click on the task -- strikes through a task if completed
 
-#### - The removed or deleted task can be put back as a task by clicking on the removed task
+#### - Remove a task by right clicking a task -- the task with disappear from the list
 
 ### Features
 
