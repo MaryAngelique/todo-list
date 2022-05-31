@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Todo List GitHub Solution](https://github.com/MaryAngelique/todo-list)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
