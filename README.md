@@ -17,13 +17,15 @@
 
 Users should be able to:
 
-#### - 
+#### - Add a task to the list by inputing the task in the text area
 
-#### - 
+#### - Delete or remove a task by clickin on it -- strikes through a task if removed
 
-#### - 
+#### - The removed or deleted task can be put back as a task by clicking on the removed task
 
 ### Features
+
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Project Demo
 
@@ -40,9 +42,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
-- CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
 - Media Queries
