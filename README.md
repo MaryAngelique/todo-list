@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Todo List GitHub Solution](https://github.com/MaryAngelique/todo-list)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Todo List Website](https://todo-list-three-bay.vercel.app/)
 
 ## My process
 
